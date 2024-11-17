@@ -34,6 +34,7 @@
     width: 205px;
     justify-content: center;
     text-align: center;
+    /* I should not be using grid instead of using grid i should have used  flex and  flex-direction will was more understandable i will keep and eye on that  */
     display: grid;
     margin-left: 47px;
     margin-top: 47px;

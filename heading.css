@@ -118,6 +118,7 @@
     color: rgb(255, 0, 0);
   font-size: 18px;
 }
+/* sorry i was not about to use grid i will surealy watch next time  */
 .navigation-1{
     display: inline-grid;
     align-content: center;
