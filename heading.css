@@ -1,0 +1,127 @@
+.name{
+  display: flex;
+  width: 570px;
+  height: 116px;
+  font-size: 34px;
+  justify-content: center; 
+  align-items: end;
+}
+.Head{
+    margin: 100px;
+    padding: 0;
+    height: 10px;
+}
+.log-in{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-items: center;
+    height: 657px;
+    border-radius: 20px;
+}
+.intro-1{
+    border: 1px solid black;
+    background-color: purple;
+    text-align: center;
+    /* word-wrap: break-word; */
+    width: 571px;
+    border-radius: 85px;
+    
+}
+.image-1{
+    border-radius: 136px;
+    width: 258px;
+    height: 258px;
+}
+.image{
+    width: 570px;
+    height: 303px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.intro-2{
+    word-wrap: break-word;
+    text-wrap: wrap;
+    /* border: 1px solid black; */
+    width: 217px;
+    justify-content: center;
+    margin: auto;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    background-color: #960096;
+    border-radius: 38px;
+}
+.Choose-1{
+    /* border: 1px solid black; */
+    display: flex;
+    /* justify-content: space-between; */
+    /* border: 1px solid black;  */
+    width: 590px;
+    justify-items: center;
+    align-items: center;
+    margin: 50px;
+    flex-direction: row-reverse;
+    gap: 16px;
+    gap: 41px;
+  justify-content: center;
+  font-size: 30px;
+  height: 75px;
+  background-color: rgb(242, 243, 242);
+  border-radius: 55px;
+}
+    
+.Choose-1 div:hover{
+    color: red;
+    cursor: pointer;
+}
+.form-1{
+    width: 305px; 
+    height: 36px;
+    border-radius: 55px;
+}
+.password{
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 27px;
+    
+}
+.login-1{
+    /* border: 1px solid black; */
+    font-size: 33px;
+    text-align: center;
+    width: 99px;
+    background-color: rgb(242, 243, 242);
+    border-radius: 29px;
+}
+.login-2{
+    background-color: rgb(203, 203, 203);
+    border-radius: 85px;
+}
+
+.username{
+    font-size: 26px;
+    justify-items: center;
+    text-align: center;
+    height: 166px;
+}
+.username-1{
+    margin-top: -31px;
+    font-size: 30px;
+    justify-items: center;
+    text-align: center;
+    height: 166px;
+}
+.password div:hover{
+    color: rgb(255, 0, 0);
+  font-size: 18px;
+}
+.navigation-1{
+    display: inline-grid;
+    align-content: center;
+    width: 343px;
+    height: 51px;
+    justify-content: center;
+}

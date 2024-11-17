@@ -1,0 +1,197 @@
+.head-container{
+    background-color: rgb(242, 242, 242);
+    display: flex;
+    justify-content: space-between;
+    font-size: 36px;
+    height: 76px;
+    align-items: center;
+}
+.head-container-1{
+    display: flex;
+    gap: 18px;
+}
+.head-container-1 div:hover{
+    color: red;
+    cursor: pointer;
+}
+.name-1{
+    /* border: 1px solid black; */
+    border-radius: 45px;
+    background-color: purple;
+    color: white;
+
+}
+.body-container{
+    display: flex;
+    height: 1014px;
+  /* border: 1px solid black; */
+  background-color: rgba(201, 201, 201, 0.36);
+}
+.profile-container-1{
+    background-color: aliceblue;
+    height: 410px;
+    /* border: 1px solid black; */
+    width: 205px;
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    margin-left: 47px;
+    margin-top: 47px;
+    border-radius: 12px;
+    
+}
+.profile-container-1 :hover{
+    color:red;
+    cursor: pointer;
+}
+.profile-1{
+    /* border: 1px solid black; */
+    border-radius: 101px;
+    height: 126px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: #0000d5;
+    color: white;
+    font-size: 39px;
+    margin-top: 50px;
+}
+.profile-2{
+    color: red;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.skill-course-1{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    width: 785px;
+    font-size: 35px;
+    margin-left: 74px;
+    margin-top: 67px;
+    font-weight: bold;
+}
+.course-1{
+    display: flex;
+    justify-content: end;
+    font-size: 35px;
+    /* margin-top: 20px; */
+    border-radius: 35px;
+}
+.foundation-1{
+    margin-top: 20px;
+    margin-left: 74px;
+    /* border: 1px solid black; */
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: -96px;
+}
+.foundation-container-1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 318px;
+    width: 175px;
+    text-align: center;
+    border-radius: 22px;
+    padding: 0;
+    margin-bottom:10px ;
+
+
+}
+.image-2{
+    background-image:url(./image/c.jpg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.image-3{
+    display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin-top: 132px;
+  /* border: 1px solid black; */
+  color: white;
+  background-color: rgb(254, 85, 189,0.5);
+  font-size: 30px;
+}
+.language-1{
+    /* border:1 px solid black; */
+    height: 116px;
+    display: flex;
+    justify-content: center;
+    width: 175px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.image-4{
+    background-image:url(./image/html.jpeg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.image-5{
+    background-image:url(./image/c++.jpg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.java-image{
+    background-image:url(./image/java.jpg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.C-image{
+    background-image:url(./image/c+++.jpg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.python-image{
+    background-image:url(./image/python.jpg);
+    background-size: cover;       
+    background-position: center;   
+    background-repeat: no-repeat;   
+    width: 189px;
+    height: 133px;
+    border-radius: 20px;
+}
+.Schedule-1{
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: space-between;
+    width: 240px;
+    margin-left: 137px;
+    padding: 11px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top:14px;
+    background-color: #d1d1d1;
+  border-radius: 20px;
+}
+.Schedule-1 div:hover{
+    color: red;
+    cursor: pointer;
+}
